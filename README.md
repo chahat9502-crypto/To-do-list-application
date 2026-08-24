@@ -29,7 +29,7 @@ This project helps users easily manage their daily tasks by adding, completing, 
 ```text
 To-Do-List/
 │
-├── to do list.html
+├── index.html
 ├── to do.css
 ├── to do.js
 └── images/
